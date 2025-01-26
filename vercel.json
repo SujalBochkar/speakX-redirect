@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/",
+      "dest": "https://github.com/SujalBochkar/speakX-Project",
+      "status": 302
+    }
+  ]
+}
